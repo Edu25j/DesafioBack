@@ -1,0 +1,15 @@
+{
+  "registrar_400": {
+    "email": "#string"
+  },
+  "actualizar_400": {
+    "message": "#string"
+  },
+  "buscar_400": {
+    "message": "#string"
+  },
+  "eliminar_400": {
+    "message": "#string",
+    "idCarrinho": "#string"
+  }
+}

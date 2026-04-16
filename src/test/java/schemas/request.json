@@ -1,0 +1,30 @@
+{
+  "crear": {
+    "message": "#string",
+    "_id": "#string"
+  },
+  "actualizar": {
+    "message": "#string"
+  },
+  "buscar": {
+    "nome": "#string",
+    "email": "#string",
+    "password": "#string",
+    "administrador": "#string",
+    "_id": "#string"
+  },
+  "listar": {
+    "quantidade": "#number",
+    "usuarios": "#[]"
+  },
+  "usuario": {
+    "nome": "#string",
+    "email": "#string",
+    "password": "#string",
+    "administrador": "#string",
+    "_id": "#string"
+  },
+  "eliminar": {
+    "message": "#string"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "casos": 
+  {
+    "crear": {
+    "nome": "Juan Perez",
+    "email": "JuanGomez123@prueba.com",
+    "password": "Juan123",
+    "administrador": "false"
+    },
+    "actualizar": {
+      "nome": "Raul Gomez",
+      "email": "RaulGomez123@prueba.com",
+      "password": "Raul123",
+      "administrador": "true"
+    }
+  }
+}
